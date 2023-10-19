@@ -2,7 +2,7 @@
 	"API_Server":
 	{
 		"Estado":true,
-		"versionGame":"BETA",
+		"versionGame":"BETA1",
 		"PakChunk":"https://sooftcompany.github.io/YourFeminaAPI/Packs/YourFemina-WindowsNoEditor.pak"
 	}
 }
